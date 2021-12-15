@@ -32,7 +32,7 @@ class Text(object):
 🗣️ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗍𝗁𝗈𝗇3</a>
 📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖠𝗌𝗒𝗇𝖼𝗂𝗈 1.13.0</a>
 🗒️ 𝖵𝖾𝗋𝗌𝗂𝗈𝗇 : <a href="t.me/{}">5.0.0 [𝖡𝖾𝗍𝖺]</a>
-📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://youtu.be/NrbMc93aCzA">𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a>
+📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://github.com/mirshad517/source-code/blob/main/README.md">𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a>
 """
     SUB_TEXT = """
 𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌,
@@ -43,7 +43,7 @@ class Text(object):
 
 📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/botupdat">Update Channel</a>
 🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/botsupportgp">Support Group</a>
-📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
+📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://github.com/mirshad517/source-code/blob/main/README.md">Click Here</a>
 """
     FORCE_SUB_TEXT = """
 ഹേയ് {} തായേ കാണുന്ന ചാനലിൽ നിങ്ങൾ ഇല്ല അത് കൊണ്ട് നിങ്ങൾക് സിനിമ കിട്ടില്ല...
@@ -239,7 +239,7 @@ class Text(object):
 
 📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/botupdat">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
 🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/botsupportgp">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
-📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
+📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://github.com/mirshad517/source-code/blob/main/README.md">Click Here</a>
 """
     CREDITS_TEXT = """
 • 𝖣𝖤𝖵 : <a href="t.me/dev_mirshad">𝖬irshad</a>
