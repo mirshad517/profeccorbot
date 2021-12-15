@@ -62,7 +62,7 @@ async def cb_handler(client, query):
 
     elif query.data == "about":
         button = [[
-          Import.Button("👨‍💻𝖣𝖾𝗉𝗅𝗈𝗒", url='https://www.youtube.com/watch?v=NrbMc93aCzA'),
+          Import.Button("👨‍💻Code", url='https://github.com/mirshad517/source-code/blob/main/README.md'),
           Import.Button("𝖲𝗈𝗎𝗋𝖼𝖾📦", callback_data="source")
           ],[
           Import.Button("⚠️𝖧𝖾𝗅𝗉", callback_data="help"),
@@ -87,7 +87,7 @@ async def cb_handler(client, query):
     elif query.data == "filter":
         button = [[
           Import.Button("🔙 𝖡𝖺𝖼𝗄", callback_data="help"),
-          Import.Button("𝖵𝗂𝖽𝖾𝗈 📽️", url="https://youtu.be/neJ4jHC9Hng")
+          Import.Button("Code 👨‍💻", url="https://github.com/mirshad517/source-code/blob/main/README.md")
           ]]
         await query.message.edit_text(Text.FILTER_TEXT, reply_markup=Import.Markup(button))
 
@@ -163,7 +163,7 @@ async def cb_handler(client, query):
 
     elif query.data == "source":
         button = [[
-          Import.Button("🖥️ 𝖵𝗂𝖽𝖾𝗈 🖥️", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
+          Import.Button("🖥️ Code 🖥️", url="https://github.com/mirshad517/source-code/blob/main/README.md"),
           ],[
           Import.Button("🔙 𝖡𝖺𝖼𝗄", callback_data="about"),
           Import.Button("𝖢𝗋𝖾𝖽𝗂𝗍𝗌 💞", callback_data="credits")
